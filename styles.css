@@ -1,10 +1,22 @@
+ul > li {
+  font-size: 15px; }
 
-h1{
-  color:blue; text-align: center;}
-p.listing{
-  padding-left:5px; text-align: left;
-}
-body{
-  background-color:white;color:black;padding: 10px;font-size: 15px;
-  font-family: -apple-system,. BlinkMacSystemFont, sans-serif;
-}
+.end {
+  font-weight: bold;
+  font: Ariel;
+  border: 1px solid black;
+  padding: 20px;
+  margin: 20px; }
+
+.end {
+  text-align: center; }
+  h1{
+    color:blue; text-align: center;}
+  p.listing{
+    padding-left:5px; text-align: left;
+  }
+  body{
+    background-color:#fffa75;color:black;padding: 10px;font-size: 15px;
+    font-family: -apple-system,. BlinkMacSystemFont, sans-serif;
+  }
+/*# sourceMappingURL=styles.css.map */
